@@ -2,5 +2,10 @@
   <body>
       <h1>Welcome to Github</h1>
       <h2>I am learning how to use github.</h2>
+      <nav>
+          <li>HTML</li>
+          <li>HTML</li>
+          <li>HTML</li>
+      </nav>
   </body>
 </html>
